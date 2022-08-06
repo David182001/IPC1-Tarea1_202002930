@@ -1,0 +1,29 @@
+body{
+	background: url("../img/FONDO.webp")  fixed;
+}
+
+.titulo{
+	text-align: center;
+	color: darkred;
+	font-family: algerian;
+	font-size: 36px;
+}
+
+.subtitulo{
+	text-align: center;
+	color: C67D5;
+	font-family: algerian;
+	font-size: 20px;
+}
+
+.tabla{
+	margin: auto;
+	text-align: center;
+	width: 1200px;
+	height: 400px;
+}
+
+table{
+	border: #0B2A79 5px solid;
+	background-color: #D0DBF8;
+}
